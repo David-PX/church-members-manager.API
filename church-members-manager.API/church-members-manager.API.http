@@ -1,0 +1,6 @@
+@church_members_manager.API_HostAddress = http://localhost:5244
+
+GET {{church_members_manager.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
